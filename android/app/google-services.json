@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381440030169",
+    "project_id": "vibezone-anshul1",
+    "storage_bucket": "vibezone-anshul1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381440030169:android:ea28d87b6cd3d22ea1d5c8",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFmB1Dx2sGgMQ4n7O8dFgHP9kdpcSoaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
